@@ -1,0 +1,35 @@
+button{
+    width: 120px;
+    height: 40px;
+    border: solid;
+    border-radius: 5px;
+    font-weight: 700;
+    background-color: #333;
+}
+.hapus{
+    color: #f00;
+    border-color: #f00;
+}
+.edit{
+    color: #0f0;
+    border-color: #0f0;
+}
+.simpan{
+    color: #0080a0;
+    border-color: #0080a0;
+}
+.hapus:hover{
+    background-color: #f00;
+    color: #333;
+    border-color: #333;
+}
+.simpan:hover{
+    background-color: #0080a0;
+    color: #333;
+    border-color: #333;
+}
+.edit:hover{
+    background-color: #0f0;
+    color: #333;
+    border-color: #333;
+}

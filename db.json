@@ -1,0 +1,53 @@
+{
+  "data-karyawan": [
+    {
+      "id": 1557298991816,
+      "nama_karyawan": "allen saputra",
+      "jabatan": "Security",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1993-12-08"
+    },
+    {
+      "id": 1537298993816,
+      "nama_karyawan": "satria",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1990-12-12"
+    },
+    {
+      "id": 1557298963816,
+      "nama_karyawan": "putra agung",
+      "jabatan": "Security",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1991-12-12"
+    },
+    {
+      "id": 1557298993816,
+      "nama_karyawan": "gerysena",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "2011-01-31"
+    },
+    {
+      "id": 1660474680267,
+      "nama_karyawan": "Kiki",
+      "jabatan": "Back End Developer",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1999-06-23"
+    },
+    {
+      "id": 1660478995524,
+      "nama_karyawan": "Packsi",
+      "jabatan": "Manager",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1984-06-14"
+    },
+    {
+      "id": 1660479580333,
+      "nama_karyawan": "Robby",
+      "jabatan": "Front End Developer",
+      "jenis_kelamin": "laki-laki",
+      "tanggal_lahir": "1999-03-04"
+    }
+  ]
+}
